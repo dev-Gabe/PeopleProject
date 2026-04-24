@@ -1,0 +1,14 @@
+/Users/gabrielrocha/Desktop/PORTIFOLIO/C#/First Project/PeopleProject/bin/Debug/net10.0/PeopleProject
+/Users/gabrielrocha/Desktop/PORTIFOLIO/C#/First Project/PeopleProject/bin/Debug/net10.0/PeopleProject.deps.json
+/Users/gabrielrocha/Desktop/PORTIFOLIO/C#/First Project/PeopleProject/bin/Debug/net10.0/PeopleProject.runtimeconfig.json
+/Users/gabrielrocha/Desktop/PORTIFOLIO/C#/First Project/PeopleProject/bin/Debug/net10.0/PeopleProject.dll
+/Users/gabrielrocha/Desktop/PORTIFOLIO/C#/First Project/PeopleProject/bin/Debug/net10.0/PeopleProject.pdb
+/Users/gabrielrocha/Desktop/PORTIFOLIO/C#/First Project/PeopleProject/obj/Debug/net10.0/PeopleProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielrocha/Desktop/PORTIFOLIO/C#/First Project/PeopleProject/obj/Debug/net10.0/PeopleProject.AssemblyInfoInputs.cache
+/Users/gabrielrocha/Desktop/PORTIFOLIO/C#/First Project/PeopleProject/obj/Debug/net10.0/PeopleProject.AssemblyInfo.cs
+/Users/gabrielrocha/Desktop/PORTIFOLIO/C#/First Project/PeopleProject/obj/Debug/net10.0/PeopleProject.csproj.CoreCompileInputs.cache
+/Users/gabrielrocha/Desktop/PORTIFOLIO/C#/First Project/PeopleProject/obj/Debug/net10.0/PeopleProject.dll
+/Users/gabrielrocha/Desktop/PORTIFOLIO/C#/First Project/PeopleProject/obj/Debug/net10.0/refint/PeopleProject.dll
+/Users/gabrielrocha/Desktop/PORTIFOLIO/C#/First Project/PeopleProject/obj/Debug/net10.0/PeopleProject.pdb
+/Users/gabrielrocha/Desktop/PORTIFOLIO/C#/First Project/PeopleProject/obj/Debug/net10.0/PeopleProject.genruntimeconfig.cache
+/Users/gabrielrocha/Desktop/PORTIFOLIO/C#/First Project/PeopleProject/obj/Debug/net10.0/ref/PeopleProject.dll
