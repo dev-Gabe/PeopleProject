@@ -36,7 +36,7 @@ public class RegisterPeople{
         Clear();
 
         while (!verified){
-            WriteText("Digite o seu CPF\n\n\n=====>");
+            WriteText("Digite o seu CPF\n\n\n=====> ");
             cpf = Console.ReadLine();
             verified = ValidateCPF(cpf);
             if(verified == true){

@@ -12,3 +12,4 @@
 /Users/gabrielrocha/Desktop/PORTIFOLIO/C#/First Project/PeopleProject/obj/Debug/net10.0/PeopleProject.pdb
 /Users/gabrielrocha/Desktop/PORTIFOLIO/C#/First Project/PeopleProject/obj/Debug/net10.0/PeopleProject.genruntimeconfig.cache
 /Users/gabrielrocha/Desktop/PORTIFOLIO/C#/First Project/PeopleProject/obj/Debug/net10.0/ref/PeopleProject.dll
+/Users/gabrielrocha/Desktop/PORTIFOLIO/C#/First Project/PeopleProject/obj/Debug/net10.0/PeopleProject.sourcelink.json
