@@ -12,17 +12,4 @@ public class PeopleData
         public string Cidade{ get; set; }
     };
     public static Dictionary<string, People> banco = new();
-    
-    public static void Consult(){
-        bool consult_on = false;
-        string cpf = "";
-        Clear();
-
-            while(!consult_on){
-                WriteLText("Digite o CPF que deseja consultar");
-                WriteText("=====> ");
-                cpf = Console.ReadLine();
-                consult_on = ValidateCPF(cpf);
-            }
-    }
 }

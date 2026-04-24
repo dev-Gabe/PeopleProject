@@ -2,6 +2,7 @@
 using static PeopleProject.Functions.Funcoes;
 using static PeopleProject.PeopleData.PeopleData;
 using static PeopleProject.Register.RegisterPeople;
+using static PeopleProject.ConsultP.Consultar;
 
 // Estou usando Layered Architecture
 namespace PeopleProject;
@@ -26,10 +27,10 @@ public class Program{
         switch (int.Parse(option))
         {
             case 1:
+            //Consult
             Clear();
             Consult();
             Main();
-            //Consult
             break;
 
             case 2:
