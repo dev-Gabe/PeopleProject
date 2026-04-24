@@ -41,6 +41,7 @@ public class RegisterPeople{
             verified = ValidateCPF(cpf);
             if(verified == true){
                 p.CPF = cpf;
+                banco.Add(p.CPF, p);
             }
         }
 

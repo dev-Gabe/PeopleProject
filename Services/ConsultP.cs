@@ -23,9 +23,12 @@ public class Consultar{
 
             WriteText("Pessoa Encontrada!\n\n");
             WriteText("=============== NOME ===============\n" + p.Nome);
-            WriteText("\n============== IDADE  ==============\n" + p.Idade);
-            WriteText("\n================ CPF ===============\n" + p.CPF);
-            WriteText("\n============== CIDADE ==============\n" + p.Cidade);
+            WriteText("\n============== IDADE  ==============\n\n" + p.Idade);
+            WriteText("\n================ CPF ===============\n\n" + p.CPF);
+            WriteText("\n============== CIDADE ==============\n\n" + p.Cidade);
+
+            WriteText("\n\n\nAperte Qualquer Botão para continuar...");
+            Console.ReadLine();
         }
         else
         {
