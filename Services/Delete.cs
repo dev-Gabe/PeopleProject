@@ -52,7 +52,6 @@ public class Deletar{
             }
                 else{
                 //ERRO AO DELETAR
-                var p = banco[cpf];
                 Clear();
                 bool isValid = false;
 
