@@ -15,7 +15,7 @@ public class Validate
     }
 
     public static bool ValidateCPF(string in_cpf){ //valida o cpf na consulta e no cadastro
-        if((!int.TryParse(in_cpf, out int out_cpf)) && (in_cpf.Length != 11)){
+        if(!long.TryParse(in_cpf, out _) || in_cpf.Length != 11){
             Clear();
             WriteText("O CPF deve ser um número, e deve conter 11 Dígitos. Tente novamente!\n");
             return false;

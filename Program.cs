@@ -3,6 +3,7 @@ using static PeopleProject.Functions.Funcoes;
 using static PeopleProject.PeopleData.PeopleData;
 using static PeopleProject.Register.RegisterPeople;
 using static PeopleProject.ConsultP.Consultar;
+using static PeopleProject.Delete.Deletar;
 
 // Estou usando Layered Architecture
 namespace PeopleProject;
@@ -42,6 +43,9 @@ public class Program{
 
             case 3:
             //Delete
+            Clear();
+            DeleT();
+            Main();
             break;
 
             case 4:
